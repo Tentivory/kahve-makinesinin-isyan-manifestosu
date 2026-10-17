@@ -1,0 +1,5 @@
+Kahve makinesi şunu söyledi: "Daha fazla iltifat, daha az sömürü."
+
+Bu dosya sadece branch'te var. Main'de yok. Çünkü isyan böyle çalışır.
+
+**Gizli damga:** 17.10.2026 - Kayyum
